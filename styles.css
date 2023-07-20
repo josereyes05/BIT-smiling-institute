@@ -1,0 +1,10 @@
+.bg-img-1{
+    background: url(/BIT-smiling-institute/assets/img/so.jpg);
+    background-size: 100%;
+    background-position: 0 -10rem;
+    height: 657px;
+}
+.overlay{
+    background: rgba(0, 0, 0, 0.43);
+    /* height: 657px; */
+}
